@@ -1,3 +1,3 @@
-# react-http-requests
+# react-http-custom-hook
 # Demo :
-https://omar-abrash.github.io/react-http-requests/
+https://omar-abrash.github.io/react-http-custom-hook/
